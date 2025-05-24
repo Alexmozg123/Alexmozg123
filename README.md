@@ -1,14 +1,4 @@
 # 👋 Hi, I’m Alexander!
-
-<br>
-
-## 🚀 About me:
-- 💼 Android & Multiplatform developer with a strong focus on Kotlin-based technologies
-- 🧠 Continuously deepening expertise in mobile architecture, Compose Multiplatform, and cross-platform solutions
-- 🔍 Keen on clean architecture, modular design, and scalable app development
-- 📚 Actively following the evolution of Kotlin and modern development practices
-
-## 🛠️ Technologies:
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/-Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -28,13 +18,15 @@
 ![Retrofit](https://img.shields.io/badge/-Retrofit-4285F4?style=flat-square&logo=retrofit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br>
+## 🚀 About me:
+- 💼 Android & Multiplatform developer with a strong focus on Kotlin-based technologies
+- 🧠 Continuously deepening expertise in mobile architecture, Compose Multiplatform, and cross-platform solutions
+- 🔍 Keen on clean architecture, modular design, and scalable app development
+- 📚 Actively following the evolution of Kotlin and modern development practices
 
 ## 🔥 My Latest Work
 > **Hold Master** — a Kotlin Multiplatform multiplayer game with Compose Multiplatform UI and real-time features.  
 > Check out the code here: [github.com/Alexmozg123/Hold-Master](https://github.com/Alexmozg123/Hold-Master)
-
-<br>
 
 ## 📫 Get in touch:
 - 📧 Bortsov.Alexander.22@yandex.ru
