@@ -7,7 +7,7 @@
 ![Flow](https://img.shields.io/badge/-Kotlin%20Flow-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/-Compose%20Multiplatform-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
 ![Compose Resources](https://img.shields.io/badge/-Compose%20Resources-4285F4?style=flat-square)
-![Ktor](https://img.shields.io/badge/-Ktor-0095D5?style=flat-square&logo=ktor&logoColor=white)
+![Compose for Desktop](https://img.shields.io/badge/-Compose%20for%20Desktop-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)         ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)                                                ![JavaCV](https://img.shields.io/badge/-JavaCV-FF6B35?style=flat-square)                                                                            ![Ktor](https://img.shields.io/badge/-Ktor-0095D5?style=flat-square&logo=ktor&logoColor=white)
 ![SQLDelight](https://img.shields.io/badge/-SQLDelight-3E4E88?style=flat-square)
 ![Napier](https://img.shields.io/badge/-Napier-FE5E5E?style=flat-square)
 ![Essenty](https://img.shields.io/badge/-Essenty-1F2937?style=flat-square)
@@ -24,9 +24,7 @@
 - 🔍 Keen on clean architecture, modular design, and scalable app development
 - 📚 Actively following the evolution of Kotlin and modern development practices
 
-## 🔥 My Latest Work
-> **Hold Master** — a Kotlin Multiplatform multiplayer game with Compose Multiplatform UI and real-time features.  
-> Check out the code here: [github.com/Alexmozg123/Hold-Master](https://github.com/Alexmozg123/Hold-Master)
+## 🔥 My Latest Work                                                                                                                                > **Lighthouse** — Kotlin/JVM desktop application: webcam → face detection (OpenCV YuNet) → DMX Art-Net output to a moving head spotlight. Built with Compose Multiplatform for Desktop, Kotlin Coroutines/Flow, and Clean Architecture.                                                             > Check out the code here: [github.com/Alexmozg123/lighthouse](https://github.com/Alexmozg123/lighthouse)
 
 ## 📫 Get in touch:
 - 📧 Bortsov.Alexander.22@yandex.ru
