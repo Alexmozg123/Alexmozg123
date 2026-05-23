@@ -24,7 +24,8 @@
 - 🔍 Keen on clean architecture, modular design, and scalable app development
 - 📚 Actively following the evolution of Kotlin and modern development practices
 
-## 🔥 My Latest Work                                                                                                                                > **Lighthouse** — Kotlin/JVM desktop application: webcam → face detection (OpenCV YuNet) → DMX Art-Net output to a moving head spotlight. Built with Compose Multiplatform for Desktop, Kotlin Coroutines/Flow, and Clean Architecture.                                                             > Check out the code here: [github.com/Alexmozg123/lighthouse](https://github.com/Alexmozg123/lighthouse)
+## 🔥 My Latest Work                                                                                                                                
+> **Lighthouse** — Kotlin/JVM desktop application: webcam → face detection (OpenCV YuNet) → DMX Art-Net output to a moving head spotlight. Built with Compose Multiplatform for Desktop, Kotlin Coroutines/Flow, and Clean Architecture.                                                             > Check out the code here: [github.com/Alexmozg123/lighthouse](https://github.com/Alexmozg123/lighthouse)
 
 ## 📫 Get in touch:
 - 📧 Bortsov.Alexander.22@yandex.ru
